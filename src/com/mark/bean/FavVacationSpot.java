@@ -1,4 +1,5 @@
-package com.mark.beanone;
+package com.mark.bean;
+
 
 public class FavVacationSpot {
 	private String spot;

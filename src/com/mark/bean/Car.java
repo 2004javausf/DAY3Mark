@@ -1,4 +1,4 @@
-package com.mark.beanone;
+package com.mark.bean;
 
 public class Car {
 
